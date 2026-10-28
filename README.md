@@ -15,7 +15,7 @@ This ALU supports a comprehensive instruction set architecture (ISA) subset, cov
 | `4'b0000` | **ADD** | Arithmetic Addition (`A + B`) | Arithmetic |
 | `4'b0001` | **SUB** | Arithmetic Subtraction (`A - B`) | Arithmetic |
 | `4'b0010` | **AND** | Bitwise Logical AND (`A & B`) | Logical |
-| `4'b0011` | **OR** | Bitwise Logical OR (`A | B`) | Logical |
+| `4'b0011` | **OR** | Bitwise Logical OR (`A \| B`) | Logical |
 | `4'b0100` | **XOR** | Bitwise Logical XOR (`A ^ B`) | Logical |
 | `4'b0101` | **NOT** | Bitwise Inversion of Input A (`~A`) | Logical |
 | `4'b0110` | **SLL** | Shift Left Logical (`A << B`) | Shift |
