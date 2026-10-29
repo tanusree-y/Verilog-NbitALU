@@ -55,6 +55,10 @@ The module includes a self-checking testbench framework (`NbiTALU_tb.v`) validat
 4. **Analyze Waveforms:** Use the `Waveform View` window to inspect signal paths, inputs (`A`, `B`), opcode control configurations, and matching flag triggers.
 
 ---
+## Simulation output
+![NbitALU Waveform](NbitALU.png)
+
+---
 
 ## 💻 Future Enhancements
 - [ ] Implement fully pipelined staging to maximize operational frequency ($F_{max}$).
